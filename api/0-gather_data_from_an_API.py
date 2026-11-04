@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Return information about an employee's TODO list progress using a REST API."""
+"""Return the TODO list progress of an employee using a REST API."""
 import json
 import sys
 import urllib.request
